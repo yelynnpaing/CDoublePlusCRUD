@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1713973513 source:d:\pgdca-b32\cdoublefreetutos\cpluspluscrud\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1714061041 source:d:\ylp\pgdca-b32\cdoublefreetutos\cpluspluscrud\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
